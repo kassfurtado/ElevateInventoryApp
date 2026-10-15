@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Elevate Inventory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Tech Stack:** React, JavaScript, Firebase, CSS, Git
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Elevate Inventory is an inventory management application being developed collaboratively for Elevate Staging and Design.
 
-### `npm start`
+The project aims to provide a centralized system for organizing inventory, tracking item locations and stages, and simplifying inventory-related workflows.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Status:** In development
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Planned Features
 
-### `npm test`
+- Inventory management and item organization
+- Location tracking
+- Inventory stage tracking
+- Dashboard overview
+- Reporting and inventory insights
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Development
 
-### `npm run build`
+The application is being built with React and Firebase, with an emphasis on reusable components, intuitive navigation, and maintainable code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Development is ongoing, with features being implemented and refined as the project progresses.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## QR Code Inventory Tracking
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A key component of the planned inventory workflow is QR code-based item tracking.
 
-### `npm run eject`
+The system is designed to support:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Generating unique QR codes for inventory items
+- Scanning QR codes to identify items
+- Checking inventory items in and out
+- Tracking item locations and availability
+- Reducing manual data entry during inventory movement
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This functionality is intended to streamline inventory handling for staging projects and improve visibility into where items are located.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Development & Collaboration
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is being developed collaboratively by Kassandra Furtado and Slaven Pjanic, using Git and GitHub for version control.
 
-## Learn More
+Development tasks and feature planning are organized using Jira, with an emphasis on tracking progress, prioritizing functionality, and coordinating development.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Future Development
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Expand inventory management functionality
+- Implement and refine Firebase integration
+- Develop reporting features
+- Improve usability and responsiveness
